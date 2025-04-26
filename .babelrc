@@ -1,0 +1,11 @@
+{
+    "plugins": [
+      ["module-resolver", {
+        "alias": {
+          "~": "./src"
+        }
+      }]
+    ]
+  }
+
+//   cài thư viện này npm install --save-dev babel-plugin-module-resolver
